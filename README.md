@@ -1,2 +1,2 @@
 # certified-kubernetes-administrator
-Certified Kubernetes Administration Exam Practice 
+Certified Kubernetes Administration Exam Practice Questions 
