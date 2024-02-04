@@ -1,11 +1,13 @@
 # Imperative Way
 <details>
-	<summary>Question 1:</summary>
-	```sh
-	kubectl run mypod --image=nginx:alpine
-	```
+  <summary>Click me</summary>
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
-
 <details>
 	<summary>
 		Question 1: Create a pod with name "mypod" using nginx:alpine image.
