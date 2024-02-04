@@ -4,6 +4,7 @@
   ```sh
   kubectl run mypod --image=nginx:alpine
   ```
+</details>
 <details>
 	<summary>
 		Question 2: Create a pod with name "pod-2" using the redis image with label name=pod-2
