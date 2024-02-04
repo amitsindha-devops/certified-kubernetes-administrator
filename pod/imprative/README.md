@@ -1,7 +1,7 @@
 # Imperative Way
 
-## Question 1: Create a pod with name "mypod" using nginx:alpine image.
+#### Question 1: Create a pod with name "mypod" using nginx:alpine image.
 
-sh```
+```sh
 kubectl run mypod --image=nginx:alpine
-``
+```
