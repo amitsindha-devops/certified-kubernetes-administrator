@@ -1,7 +1,9 @@
 # Imperative Way
 <details>
 	<summary>Question 1:</summary>
+	```sh
 	kubectl run mypod --image=nginx:alpine
+	```
 </details>
 
 <details>
