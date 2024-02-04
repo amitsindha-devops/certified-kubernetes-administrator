@@ -1,13 +1,14 @@
 # Imperative Way
 <details>
-  <summary>Click me</summary>
-  #### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+	<summary>Question 1:</summary>
+  
+	### Heading
+ 	### Some Javascript
+	```sh
+	kubectl run mypod --image=nginx:alpine
+	```
 </details>
+
 <details>
 	<summary>
 		Question 1: Create a pod with name "mypod" using nginx:alpine image.
