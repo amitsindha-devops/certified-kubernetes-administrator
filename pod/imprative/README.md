@@ -9,10 +9,8 @@
      * Qux
 
   ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
+  ```sh
+  kubectl run mypod --image=nginx:alpine
   ```
 </details>
 <details>
