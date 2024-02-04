@@ -1,14 +1,7 @@
 # Imperative Way
 <details>
   <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
+  #### Some Javascript
   ```js
   function logSomething(something) {
     console.log('Something', something);
