@@ -3,11 +3,6 @@
   <summary>Question 1: Create a pod with name "mypod" using nginx:alpine image.</summary>
   
   ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
   ```sh
   kubectl run mypod --image=nginx:alpine
   ```
