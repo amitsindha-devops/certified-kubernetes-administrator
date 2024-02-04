@@ -8,7 +8,6 @@
      * Baz
      * Qux
 
-  ### Some Javascript
   ```sh
   kubectl run mypod --image=nginx:alpine
   ```
